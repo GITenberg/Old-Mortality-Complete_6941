@@ -1,10 +1,8 @@
 _repo: Old-Mortality-Complete_6941
-_version: 0.0.1
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 6941/6941-h/images/bookcover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: old/orig6941-h/images/bookcover.jpg
 creator:
   author:
     agent_name: Scott, Walter
@@ -24,6 +22,8 @@ description: "Old Mortality is a novel by Sir Walter Scott set in the period 167
   \ Old Mortality is considered one of Scott's best novels.\nIt was originally titled\
   \ The Tale of Old Mortality, but is generally shortened in most references.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6941#Old-Mortality-Complete
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2004-08-22'
 gutenberg_type: Text
